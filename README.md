@@ -11,9 +11,6 @@ interacting in the environment through a learned policy and
 consequently building an Action-Conditioned Scene Graph.
 The repo with the code for our work can be found here.
 
-**Please note that not all the code is the work of this project group**. We will use a basis provided by the following paper.
-For an idea of this basis, please utilize [this repository](https://github.com/facebookresearch/interaction-exploration/tree/main). However, we also
-merged these methods with our project contributions.
 
 ## Requirements
 Install required packages:
